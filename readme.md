@@ -1,1 +1,1 @@
-#pandaq is very mid
+# panda is very panada
